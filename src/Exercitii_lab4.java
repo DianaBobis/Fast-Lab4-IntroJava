@@ -78,5 +78,49 @@ public class Exercitii_lab4 {
 //            suma=suma+nr;}
 //        while (nr!=0);
 //    SkeletonJava.printConsole("Suma numerelor mai mari decat 4 si mai mici decat 11 este "+suma);
+
+
+        //4. Se da un numar. Sa se afiseze ‘true' daca numarul apartine intervalului [9,24].
+        // Altfel sa se afiseze ‘false'.
+
+//        int test=0;
+//        int n=SkeletonJava.readIntConsole("Introduceti un nr: ");
+//        for (int i=9; i<=24; i++) {
+//            if (n==i)
+//            test=1;
+//        }
+//        if (test==1)
+//            SkeletonJava.printConsole("true");
+//        else
+//            SkeletonJava.printConsole("false");
+
+
+        //5. Se dau doua numere a si n. sa se afiseze numarul a la puterea n
+
+//        int a=SkeletonJava.readIntConsole("Introduceti numarul: ");
+//        int n=SkeletonJava.readIntConsole("Introduceti puterea");
+//        int b=a;
+//        for (int i=1; i<=n-1; i++) {
+//            b=b*a;
+//
+//        }
+//        SkeletonJava.printConsole(a +" la puterea " + n + " este " + b);
+
+        //6. Sa se calculeze factorialul unui numar a .
+
+//        int a=SkeletonJava.readIntConsole("Introduceti numarul: ");
+//
+//        int fact=1;
+//        for(int i=1; i<=a; i++) {
+//            fact=fact*i;
+//        }
+//        SkeletonJava.printConsole("Factorialul lui " + a + " este " + fact);
+
+
+        //7. Se da un sir de numere. Sa se afiseze perechile de numere pentru care
+        // primul numar este mai mare decat al doilea.
+
+       // int [] sir7 = {11,13,9,8,16};
+
     }
 }
